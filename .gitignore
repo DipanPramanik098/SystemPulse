@@ -1,0 +1,42 @@
+# Node Modules
+
+node_modules/
+
+# Logs
+
+logs.txt
+*.log
+
+# Environment Variables
+
+.env
+
+reports
+
+reports/*.json
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# VS Code
+
+.vscode/
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# npm Cache
+
+.npm/
+
+# Coverage
+
+coverage/
+
+Package Lock
+
+# package-lock.json
